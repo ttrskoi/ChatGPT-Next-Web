@@ -5,8 +5,8 @@ import "./styles/highlight.scss";
 import { getClientConfig } from "./config/client";
 
 export const metadata = {
-  title: "SUSRES",
-  description: "Susres's GPT Chat Bot",
+  title: "白糖后主",
+  description: "糖宝の专属AI Chatbot",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -17,7 +17,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "SUSRES",
+    title: "白糖后主",
     statusBarStyle: "default",
   },
 };
